@@ -1,5 +1,4 @@
-Hi, My name is Abdullah Ikram and I a final year student pursuing B.Tech CSE at Amity University, Noida. I am an aspiring Software Developer and a keen Data Science enthusiast.
-The programming languages that I use are C++ for implementing Data Structures and Algorithms, and Python for my Machine Learning projects.
+
 
 
 <!---
